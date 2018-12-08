@@ -5,7 +5,7 @@ var triviaQ = [
   answer:0
 },
 {
-  question: "What is the popular dog breed in the US?",
+  question: "What is the most popular dog breed in the US?",
   answerOption:  ["English Bulldog", "German Shepherd", "Labrador Retriever", "Poodle"],
   answer: 2
 },
