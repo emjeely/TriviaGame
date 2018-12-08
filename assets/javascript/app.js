@@ -1,3 +1,4 @@
+$(document).ready(function(){
 var triviaQ = [
   {
   question: "What is the tallest breed of dog",
@@ -191,4 +192,5 @@ function scoreboard(){
 	$('#startOverBtn').addClass('reset');
 	$('#startOverBtn').show();
 	$('#startOverBtn').html('Start Over?');
+};
 }
