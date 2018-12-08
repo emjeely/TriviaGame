@@ -193,4 +193,4 @@ function scoreboard(){
 	$('#startOverBtn').show();
 	$('#startOverBtn').html('Start Over?');
 };
-}
+})
